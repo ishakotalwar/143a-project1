@@ -1,0 +1,80 @@
+{
+    "FCFS1": {
+        "PID 1": {
+            "turn_around_time": "0ms",
+            "waiting_time": "0ms"
+        },
+        "PID 2": {
+            "turn_around_time": "0ms",
+            "waiting_time": "0ms"
+        },
+        "PID 3": {
+            "turn_around_time": "0ms",
+            "waiting_time": "0ms"
+        },
+        "Average": {
+            "turn_around_time": "0ms",
+            "waiting_time": "0ms"
+        }
+    },
+    "FCFS2": {
+        "PID 1": {
+            "turn_around_time": "0ms",
+            "waiting_time": "0ms"
+        },
+        "PID 2": {
+            "turn_around_time": "0ms",
+            "waiting_time": "0ms"
+        },
+        "PID 3": {
+            "turn_around_time": "0ms",
+            "waiting_time": "0ms"
+        },
+        "PID 4": {
+            "turn_around_time": "0ms",
+            "waiting_time": "0ms"
+        },
+        "PID 5": {
+            "turn_around_time": "0ms",
+            "waiting_time": "0ms"
+        },
+        "PID 6": {
+            "turn_around_time": "0ms",
+            "waiting_time": "0ms"
+        },
+        "Average": {
+            "turn_around_time": "0ms",
+            "waiting_time": "0ms"
+        }
+    },
+    "FCFS3": {
+        "PID 1": {
+            "turn_around_time": "0ms",
+            "waiting_time": "0ms"
+        },
+        "PID 2": {
+            "turn_around_time": "0ms",
+            "waiting_time": "0ms"
+        },
+        "PID 3": {
+            "turn_around_time": "0ms",
+            "waiting_time": "0ms"
+        },
+        "PID 4": {
+            "turn_around_time": "0ms",
+            "waiting_time": "0ms"
+        },
+        "PID 5": {
+            "turn_around_time": "0ms",
+            "waiting_time": "0ms"
+        },
+        "PID 6": {
+            "turn_around_time": "0ms",
+            "waiting_time": "0ms"
+        },
+        "Average": {
+            "turn_around_time": "0ms",
+            "waiting_time": "0ms"
+        }
+    }
+}
